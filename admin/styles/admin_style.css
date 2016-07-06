@@ -1,0 +1,102 @@
+*{
+	font-size: 20px;
+}
+
+h2{
+	font-size: 30px;
+}
+
+h3{
+	color: #BD7E1D;
+}
+
+#admin_main_div{
+	width: 1000px;
+	height: auto;
+	margin: auto;
+}
+
+
+#navigation{
+	background: gray;
+	width: 1000px;
+	height: 50px;
+	margin: auto;
+}
+
+#navigation ul {
+	float: left;
+	margin: 0;
+	padding: 0;
+}
+
+#navigation li {
+	list-style: none;
+	display: inline-block;
+	padding: 10px;
+}
+
+#navigation a {
+	text-decoration: none;
+	color: #FFF;
+	font-weight: bold;
+	padding: 5px 10px;
+}
+
+#navigation a:hover {
+	color: #BD7E1D;
+	text-decoration: underline;
+	font-weight: bolder;
+}
+
+#options {
+	margin: auto;
+	width: 1000px;
+	background: #ccc;
+	height: 100px;
+	
+}
+
+#options a{
+	color: #FFF;
+	text-decoration: none;
+}
+
+#options a:hover{
+	color: #BD7E1D;
+	text-decoration: underline;
+	font-weight: bolder;
+}
+
+#inv_btns{
+	background-color: #ccc;	
+}
+
+#inv_btns a{
+	text-decoration: none;
+	color: blue;
+}
+
+#inv_btns a:hover{
+	color: #BD7E1D;
+	text-decoration: underline;
+	font-weight: bolder;
+}
+
+#invForm {
+	background-color: #ccc;
+}
+
+#the_footer{
+	
+	bottom:0; 
+	background-color: #ccc;
+	text-align: center;
+	font: 15px sans-serif;
+	width: 100%;
+	height: 70px;
+}
+
+#the_footer a{
+	color: #BD7E1D;
+}
